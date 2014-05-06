@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LearningAndroid</string>
+    
+    <string name="main_hello_world">Hello World!</string>
+    <string name="main_click_me">Click Me!</string>
+    
+    <string name="settings_menu">Settings</string>
+    <string name="message_settings_category">Message Settings</string>
+    <string name="message_settings_title">Message</string>
+    <string name="message_settings_summary">Enter your message</string>
+    <string name="message_settings_dialogtitle">Enter your message</string>
+    <string name="message_settings_configure">Please configure the Message Settings</string>
+    
+    <string name="create_menu">Create</string>
+    <string name="create_textview">Text:</string>
+    <string name="create_button">Create</string>
+    <string name="create_edittext_empty">Please enter the mesage that you wish to create</string>
+    <string name="create_edittext_created">A new message created</string>
+    
+    <string name="retrieve_menu">Retrieve</string>
+    <string name="retrieve_id_textview">ID</string>
+    <string name="retrieve_message_textview">Message</string>
+    
+    <string name="retrieve_context_menu_delete">Delete</string>
+    <string name="retrieve_context_menu_update">Update</string>
+    
+    <string name="update_textview">Message</string>
+    <string name="update_button">Update</string>
+    <string name="update_textview_updated">The message was successfully updated</string>
+    <string name="update_edittext_empty">The message can\'t be empty</string>
+</resources>
